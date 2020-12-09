@@ -1,0 +1,95 @@
+.top {
+    height: 90px;
+    background-color: grey;
+  }
+  .middle {
+    height: 450px;
+    background-color: white;
+  }
+  .bottom {
+    height: 90px;
+    background-color: rgb(46, 107, 107);
+  }
+  
+  h1 {
+    color: rgb(46, 107, 107);
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+  
+  #FirstName {
+    width: 151px;
+    height: 44px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    margin-right: 10px;
+    display: inline-block;
+  }
+  #LastName {
+    width: 151px;
+    height: 44px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    display:inline-block;
+  }
+  #EmailAddress {
+    width: 313px;
+    height: 44px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+    display: inline-block;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  #Password {
+    width: 313px;
+    height: 44px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  #SubmitButton {
+    width: 313px;
+    height: 44px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  /* #EmailAddress{
+  font-size: 100px;
+   } */
+  
